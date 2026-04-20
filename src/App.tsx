@@ -38,10 +38,10 @@ const PRODUCTS = [
   {
     id: 4,
     name: { ar: "HK collection", en: "HK collection" },
-    brand: "watch",
+    brand: "WATCH",
     category: "Luxury",
     price: 1900DA,
-    image: "/PRODUCT.BLACK"
+    image: "/product.black"
   },
   {
     id: 5,
