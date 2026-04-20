@@ -17,7 +17,7 @@ const PRODUCTS = [
     brand: "WATCH",
     category: "Classic",
     price: 1900 DA,
-    image: "/product.hk.jpg"
+    image: "/watch.silver.jpg"
   },
   {
     id: 2,
