@@ -13,18 +13,18 @@ import { WILAYAS } from './data/algeria-locations';
 const PRODUCTS = [
   {
     id: 1,
-    name: { ar: "إيليت كلاسيك", en: "Elite Classic" },
-    brand: "ELITE",
+    name: { ar: "HK collection", en: "HK collection" },
+    brand: "WATCH",
     category: "Classic",
-    price: 1900,
+    price: 1900DA,
     image: "/product.black"
   },
   {
     id: 2,
-    name: { ar: "رويال غولد", en: "Royal Gold" },
-    brand: "ELITE",
+    name: { ar: "HK collection", en: "HK collection" },
+    brand: "WATCH",
     category: "Luxury",
-    price: 1900,
+    price: 1900DA,
     image: "/product.silver"
   },
   {
