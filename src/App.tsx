@@ -16,8 +16,8 @@ const PRODUCTS = [
     name: { ar: "HK collection", en: "HK collection" },
     brand: "WATCH",
     category: "Classic",
-    price: 1900DA,
-    image: "/product.hk"
+    price: 1900 DA,
+    image: "/product.hk.jpg"
   },
   {
     id: 2,
