@@ -32,7 +32,7 @@ const PRODUCTS = [
     name: { ar: "سوبر سبورت", en: "Super Sport" },
     brand: "ELITE",
     category: "Sport",
-    price: 850,
+    price: 1900,
     image: "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?auto=format&fit=crop&q=80&w=800"
   },
   {
@@ -48,7 +48,7 @@ const PRODUCTS = [
     name: { ar: "هيريتيج", en: "Heritage" },
     brand: "ELITE",
     category: "Classic",
-    price: 2100,
+    price: 1900,
     image: "https://images.unsplash.com/photo-1612817159949-195b6eb9e31a?auto=format&fit=crop&q=80&w=800"
   },
   {
@@ -56,7 +56,7 @@ const PRODUCTS = [
     name: { ar: "دايفر إكس", en: "Diver X" },
     brand: "ELITE",
     category: "Sport",
-    price: 1550,
+    price: 1900,
     image: "https://images.unsplash.com/photo-1547996160-81dfa63595aa?auto=format&fit=crop&q=80&w=800"
   }
 ];
