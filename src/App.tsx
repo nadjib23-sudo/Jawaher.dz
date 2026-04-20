@@ -17,7 +17,7 @@ const PRODUCTS = [
     brand: "WATCH",
     category: "Classic",
     price: 1900DA,
-    image: "/"
+    image: "/product.hk"
   },
   {
     id: 2,
