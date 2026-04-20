@@ -25,7 +25,7 @@ const PRODUCTS = [
     brand: "WATCH",
     category: "Luxury",
     price: 1900,
-    image: "/product.silver"
+    image: "/watch.silver.jpg"
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ const PRODUCTS = [
     brand: "ELITE",
     category: "Sport",
     price: 1900,
-    image: "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?auto=format&fit=crop&q=80&w=800"
+    image: "/watch.silver.jpg"
   },
   {
     id: 4,
@@ -41,7 +41,7 @@ const PRODUCTS = [
     brand: "WATCH",
     category: "Luxury",
     price: 1900,
-    image: "/product.black"
+    image: "/watch.silver.jpg"
   },
   {
     id: 5,
@@ -49,7 +49,7 @@ const PRODUCTS = [
     brand: "ELITE",
     category: "Classic",
     price: 1900,
-    image: "https://images.unsplash.com/photo-1612817159949-195b6eb9e31a?auto=format&fit=crop&q=80&w=800"
+    image: "/watch.silver.jpg"
   },
   {
     id: 6,
@@ -57,7 +57,7 @@ const PRODUCTS = [
     brand: "ELITE",
     category: "Sport",
     price: 1900,
-    image: "https://images.unsplash.com/photo-1547996160-81dfa63595aa?auto=format&fit=crop&q=80&w=800"
+    image: "/watch.silver.jpg"
   }
 ];
 
