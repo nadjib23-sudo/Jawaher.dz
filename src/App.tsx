@@ -37,11 +37,11 @@ const PRODUCTS = [
   },
   {
     id: 4,
-    name: { ar: "ماستر بيس", en: "Masterpiece" },
-    brand: "ELITE",
+    name: { ar: "HK collection", en: "HK collection" },
+    brand: "watch",
     category: "Luxury",
-    price: 7200,
-    image: "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&q=80&w=800"
+    price: 1900DA,
+    image: "/PRODUCT.BLACK"
   },
   {
     id: 5,
