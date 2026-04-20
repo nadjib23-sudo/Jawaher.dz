@@ -16,16 +16,16 @@ const PRODUCTS = [
     name: { ar: "إيليت كلاسيك", en: "Elite Classic" },
     brand: "ELITE",
     category: "Classic",
-    price: 1200,
-    image: "https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?auto=format&fit=crop&q=80&w=800"
+    price: 1900,
+    image: "/product.black"
   },
   {
     id: 2,
     name: { ar: "رويال غولد", en: "Royal Gold" },
     brand: "ELITE",
     category: "Luxury",
-    price: 4500,
-    image: "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&q=80&w=800"
+    price: 1900,
+    image: "/product.silver"
   },
   {
     id: 3,
