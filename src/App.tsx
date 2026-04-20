@@ -16,7 +16,7 @@ const PRODUCTS = [
     name: { ar: "HK collection", en: "HK collection" },
     brand: "WATCH",
     category: "Classic",
-    price: 1900 DA,
+    price: 1900 ,
     image: "/watch.silver.jpg"
   },
   {
@@ -24,7 +24,7 @@ const PRODUCTS = [
     name: { ar: "HK collection", en: "HK collection" },
     brand: "WATCH",
     category: "Luxury",
-    price: 1900DA,
+    price: 1900,
     image: "/product.silver"
   },
   {
@@ -40,7 +40,7 @@ const PRODUCTS = [
     name: { ar: "HK collection", en: "HK collection" },
     brand: "WATCH",
     category: "Luxury",
-    price: 1900DA,
+    price: 1900,
     image: "/product.black"
   },
   {
