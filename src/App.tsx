@@ -259,7 +259,7 @@ export default function App() {
             <button
               key={filter}
               onClick={() => setActiveFilter(filter)}
-              className={`px-8 py-2.5 rounded-full text-xs font-semibold whitespace-nowrap transition-all border {
+              className={`px-8 py-2.5 rounded-full text-xs font-semibold whitespace-nowrap transition-all border DA {
                 activeFilter === filter 
                 ? 'border-gold text-gold bg-gold/10' 
                 : 'border-white/10 text-white/40 hover:text-white/60 hover:border-white/20'
