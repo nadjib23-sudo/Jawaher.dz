@@ -25,7 +25,7 @@ const PRODUCTS = [
     brand: "WATCH",
     category: "Luxury",
     price: 1900,
-    image: "/silver.jpg"
+    image: "/black.jpg"
   },
   {
     id: 3,
