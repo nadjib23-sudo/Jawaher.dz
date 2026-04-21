@@ -297,7 +297,7 @@ export default function App() {
                   
                   <div className="space-y-4">
                     <div className="flex justify-between items-center">
-                      <span className="text-2xl font-bold text-white whitespace-nowrap">${product.price.toLocaleString()}</span>
+                      <span className="text-2xl font-bold text-white whitespace-nowrap">DA{product.price.toLocaleString()}</span>
                     </div>
                     
                     <button 
