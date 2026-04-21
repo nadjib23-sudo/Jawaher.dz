@@ -259,7 +259,7 @@ export default function App() {
             <button
               key={filter}
               onClick={() => setActiveFilter(filter)}
-              className={`px-8 py-2.5 rounded-full text-xs font-semibold whitespace-nowrap transition-all border DA{
+              className={`px-8 py-2.5 rounded-full text-xs font-semibold whitespace-nowrap transition-all border {
                 activeFilter === filter 
                 ? 'border-gold text-gold bg-gold/10' 
                 : 'border-white/10 text-white/40 hover:text-white/60 hover:border-white/20'
@@ -291,7 +291,7 @@ export default function App() {
                     referrerPolicy="no-referrer"
                   />
                 </div>
-                <div className={`p-8 ${lang === 'ar' ? 'text-right' : 'text-left'}`}>
+                <div className={`p-8 DA{lang === 'ar' ? 'text-right' : 'text-left'}`}>
                   <p className="text-gold text-[10px] font-bold tracking-widest uppercase mb-2">{product.brand}</p>
                   <h4 className="font-display text-xl font-bold text-white mb-6 uppercase tracking-tight">{product.name[lang]}</h4>
                   
