@@ -33,8 +33,7 @@ const PRODUCTS = [
     brand: "WATCH",
     category: "Sport",
     price: 1900,
-    image: "/swatch.white.jpeg
-"
+    image: "/swatch.white.jpg"
   },
   {
     id: 4,
@@ -42,7 +41,7 @@ const PRODUCTS = [
     brand: "WATCH",
     category: "Sport",
     price: 1900,
-    image: "/swatch.black.jpeg"
+    image: "/swatch.black.jpg"
   },
   {
     id: 5,
@@ -50,7 +49,7 @@ const PRODUCTS = [
     brand: "WATCH",
     category: "Sport",
     price: 1900,
-    image: "/swatch.gold2.jpeg"
+    image: "/swatch.goldb.jpg"
   },
   {
     id: 6,
@@ -58,7 +57,7 @@ const PRODUCTS = [
     brand: "WATCH",
     category: "Sport",
     price: 1900,
-    image: "/swatch.gold.jpeg"
+    image: "/swatch.gold.jpg"
   }
 ];
 
