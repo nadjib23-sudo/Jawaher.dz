@@ -21,7 +21,7 @@ const PRODUCTS = [
   },
   {
     id: 2,
-    name: { ar: "HK collection", en: "HK collection" },
+    name: { ar: "HK collection BLACK", en: "HK collection BLACK" },
     brand: "WATCH",
     category: "Luxury",
     price: 1900,
