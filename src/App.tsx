@@ -17,7 +17,7 @@ const PRODUCTS = [
     brand: "WATCH",
     category: "Classic",
     price: 1900 ,
-    image: "/swatch.jpg"
+    image: "/silver.jpg"
   },
   {
     id: 2,
@@ -29,11 +29,11 @@ const PRODUCTS = [
   },
   {
     id: 3,
-    name: { ar: "سوبر سبورت", en: "Super Sport" },
-    brand: "ELITE",
+    name: { ar: "swatch swiss", en: "swatch swiss" },
+    brand: "WATCH",
     category: "Sport",
     price: 1900,
-    image: "/watch.silver.jpg"
+    image: "/swatch.jpg"
   },
   {
     id: 4,
