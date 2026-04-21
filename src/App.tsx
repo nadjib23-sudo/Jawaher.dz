@@ -33,31 +33,32 @@ const PRODUCTS = [
     brand: "WATCH",
     category: "Sport",
     price: 1900,
-    image: "/swatch.jpg"
+    image: "/swatch.white.jpeg
+"
   },
   {
     id: 4,
-    name: { ar: "HK collection", en: "HK collection" },
+    name: { ar: "swatch swiss", en: "swatch swiss" },
     brand: "WATCH",
-    category: "Luxury",
+    category: "Sport",
     price: 1900,
-    image: "/watch.silver.jpg"
+    image: "/swatch.black.jpeg"
   },
   {
     id: 5,
-    name: { ar: "HK collection", en: "HK collection" },
+    name: { ar: "swatch swiss", en: "swatch swiss" },
     brand: "WATCH",
-    category: "Classic",
+    category: "Sport",
     price: 1900,
-    image: "/black.jpg"
+    image: "/swatch.gold2.jpeg"
   },
   {
     id: 6,
-    name: { ar: "دايفر إكس", en: "Diver X" },
-    brand: "ELITE",
+    name: { ar: "swatch swiss", en: "swatch swiss" },
+    brand: "WATCH",
     category: "Sport",
     price: 1900,
-    image: "/watch.silver.jpg"
+    image: "/swatch.gold.jpeg"
   }
 ];
 
