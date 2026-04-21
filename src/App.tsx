@@ -46,7 +46,7 @@ const PRODUCTS = [
   {
     id: 5,
     name: { ar: "HK collection", en: "HK collection" },
-    brand: "ELITE",
+    brand: "WATCH",
     category: "Classic",
     price: 1900,
     image: "/black.jpg"
@@ -384,7 +384,7 @@ export default function App() {
                           <div className={`flex-1 flex flex-col justify-center ${lang === 'ar' ? 'text-right' : 'text-left'}`}>
                             <h6 className="font-bold text-lg mb-1 uppercase tracking-tight">{selectedProduct.name[lang]}</h6>
                             <p className="text-white/40 text-sm mb-2 uppercase tracking-widest font-bold text-[10px]">{selectedProduct.brand}</p>
-                            <p className="text-gold font-bold text-xl">DA{selectedProduct.price.toLocaleString()}</p>
+                            <p className="text-gold font-bold text-xl">${selectedProduct.price.toLocaleString()}</p>
                           </div>
                         </div>
                       </div>
