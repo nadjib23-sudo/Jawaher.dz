@@ -45,11 +45,11 @@ const PRODUCTS = [
   },
   {
     id: 5,
-    name: { ar: "هيريتيج", en: "Heritage" },
+    name: { ar: "HK collection", en: "HK collection" },
     brand: "ELITE",
     category: "Classic",
     price: 1900,
-    image: "/watch.silver.jpg"
+    image: "/black.jpg"
   },
   {
     id: 6,
