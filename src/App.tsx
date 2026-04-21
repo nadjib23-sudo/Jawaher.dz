@@ -259,7 +259,7 @@ export default function App() {
             <button
               key={filter}
               onClick={() => setActiveFilter(filter)}
-              className={`px-8 py-2.5 rounded-full text-xs font-semibold whitespace-nowrap transition-all border ${
+              className={`px-8 py-2.5 rounded-full text-xs font-semibold whitespace-nowrap transition-all border DA{
                 activeFilter === filter 
                 ? 'border-gold text-gold bg-gold/10' 
                 : 'border-white/10 text-white/40 hover:text-white/60 hover:border-white/20'
@@ -383,8 +383,8 @@ export default function App() {
                           </div>
                           <div className={`flex-1 flex flex-col justify-center ${lang === 'ar' ? 'text-right' : 'text-left'}`}>
                             <h6 className="font-bold text-lg mb-1 uppercase tracking-tight">{selectedProduct.name[lang]}</h6>
-                            <p className="text-white/40 text-sm mb-2 uppercase tracking-widest font-bold text-[10px]">{selectedProduct.brand}</p>
-                            <p className="text-gold font-bold text-xl">{selectedProduct.price.toLocaleString()}  DZD/p>
+                            <p className="text-white/40 text-sm mb-2 uppercase tracking-widest font-bold text-[10px]">{selectedProduct.brand} DA </p>
+                            <p className="text-gold font-bold text-xl">{selectedProduct.price.toLocaleString()}  DA/p>
                           </div>
                         </div>
                       </div>
