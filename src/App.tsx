@@ -13,7 +13,7 @@ import { WILAYAS } from './data/algeria-locations';
 const PRODUCTS = [
   {
     id: 1,
-    name: { ar: "HK collection", en: "HK collection" },
+    name: { ar: "HK collection SILVER", en: "HK collection SILVER" },
     brand: "WATCH",
     category: "Classic",
     price: 1900 ,
