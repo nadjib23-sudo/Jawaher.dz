@@ -181,6 +181,7 @@ export default function App() {
         commune: formData.commune,
         address: formData.address,
         items: [`${selectedProduct.name[lang]} (1)`],
+        brand: item.brand,
         totalPrice: totalAmount,
         timestamp: new Date().toLocaleString(lang === 'ar' ? 'ar-DZ' : 'en-US')
       };
