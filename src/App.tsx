@@ -171,7 +171,7 @@ export default function App() {
     setOrderStatus('loading');
 
     // IMPORTANT: Point this to your Google Apps Script Web App URL
-    const GOOGLE_SHEETS_URL = "https://script.google.com/macros/s/AKfycbxzsYEY9sG1vF-faUm8DNgfXA5sbDiJutAJqhKOIJBejWRhalO8se7hhKQarPhbMAW6/exec";
+    const GOOGLE_SHEETS_URL = "https://script.google.com/macros/s/AKfycbzMJa0683cWvDSYmrjX8SZ_y4m1EKoJ1DRLNGVjpHiGS5azbEpP2qjPGfbCAHIYfJiC/exec";
 
     try {
       const orderData = {
