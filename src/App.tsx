@@ -14,7 +14,7 @@ const PRODUCTS = [
   {
     id: 1,
     name: { ar: "HK collection", en: "HK collection" },
-    brand: "WATCH",
+    brand: "SILVER",
     category: "Classic",
     price: 1900 ,
     image: "/silver.jpg",
@@ -22,7 +22,7 @@ const PRODUCTS = [
   {
     id: 2,
     name: { ar: "HK collection", en: "HK collection" },
-    brand: "WATCH",
+    brand: "BLACK",
     category: "Luxury",
     price: 1900,
     image: "/black.jpg",
@@ -30,7 +30,7 @@ const PRODUCTS = [
   {
     id: 3,
     name: { ar: "swatch swiss", en: "swatch swiss" },
-    brand: "WATCH",
+    brand: "LIGHT SILVER",
     category: "Sport",
     price: 1900,
     image: "/swatch.white.jpg",
@@ -38,7 +38,7 @@ const PRODUCTS = [
   {
     id: 4,
     name: { ar: "swatch swiss", en: "swatch swiss" },
-    brand: "WATCH",
+    brand: "DARK GRAY",
     category: "Sport",
     price: 1900,
     image: "/swatch.black.jpg",
@@ -46,7 +46,7 @@ const PRODUCTS = [
   {
     id: 5,
     name: { ar: "swatch swiss", en: "swatch swiss" },
-    brand: "WATCH",
+    brand: "BLACK WITH GOLD ACCENTS",
     category: "Sport",
     price: 1900,
     image: "/swatch.goldb.jpg",
@@ -54,7 +54,7 @@ const PRODUCTS = [
   {
     id: 6,
     name: { ar: "swatch swiss", en: "swatch swiss" },
-    brand: "WATCH",
+    brand: "GOLD DIAL",
     category: "Sport",
     price: 1900,
     image: "/swatch.gold.jpg",
